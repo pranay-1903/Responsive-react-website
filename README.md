@@ -23,7 +23,7 @@ This React-based project aims to create a user-friendly and visually appealing w
   <li>Responsive Design Techniques: Media queries and flexible layouts are employed to ensure optimal display on different devices.</li>
 </ul>
 
-<h3>How run this Website : </h3>
+<h3>How to run this Website : </h3>
 <ol>
   <li> Download the code and make a directory for the project. </li>
   <li>Make sure you have node.js installed. Run npm install in your Project directory.</li>
