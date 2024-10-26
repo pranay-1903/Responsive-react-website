@@ -38,6 +38,8 @@ This React-based project aims to create a user-friendly and visually appealing w
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/1df767d4-c506-44d3-bc27-26caf1b594df">
 <br>
 <br>
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/8dc55cf3-4306-4633-90a1-50694cdad87b">
+
 <img width="488" alt="image" src="https://github.com/user-attachments/assets/798fac52-64a1-4c77-a7b2-e85a64f87172">
 <br>
 <br>
